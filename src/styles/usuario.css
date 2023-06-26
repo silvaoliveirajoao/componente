@@ -1,0 +1,21 @@
+.corpo-usuario {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 175px;
+    height: 73px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.nome-usuario {
+    font-size: 14px;
+    color: white;
+    font-weight: lighter;
+}
+
+.tempo {
+    font-size: 10px;
+    color: white;
+    font-weight: lighter;
+}

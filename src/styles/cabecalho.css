@@ -1,0 +1,8 @@
+.corpo-cabecalho {
+    background-color: #292A2E;
+    width: 455px;
+    height: 73px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

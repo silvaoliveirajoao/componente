@@ -1,0 +1,14 @@
+.corpo-mensagem {
+    background-color: #292A2E;
+    height: 38px;
+    width: 455px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+p {
+    display: flex;
+    padding: 15px;
+}

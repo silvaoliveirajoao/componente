@@ -1,0 +1,19 @@
+.corpo-botao {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+button {
+    background-color: #02CA95;
+    font-style: bold;
+    color: white;
+    border-radius: 5px;
+    height: 20px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+}

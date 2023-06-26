@@ -1,0 +1,12 @@
+.corpo-img {
+    height: 457px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    background-color: black;
+}
+
+.fundo {
+    background-color: #292A2E;
+    width: 455px;
+}

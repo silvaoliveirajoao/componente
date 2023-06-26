@@ -1,0 +1,17 @@
+.corpo-rodape {
+    background-color: #292A2E;
+    width: 455px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.botao-container {
+    width: 109px;
+    height: 45px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
